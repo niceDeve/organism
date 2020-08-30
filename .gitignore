@@ -1,0 +1,4 @@
+yarn-error.log
+wallet/*
+node_modules/
+scripts/node_modules/

@@ -1,0 +1,21 @@
+{
+  "name": "organism",
+  "version": "1.0.0",
+  "description": "Organs coordinator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "bash scripts/dev.sh",
+    "devInstall": "bash scripts/install.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sovereignblock/organism.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sovereignblock/organism/issues"
+  },
+  "homepage": "https://github.com/sovereignblock/organism#readme"
+}
