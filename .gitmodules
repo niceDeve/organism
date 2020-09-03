@@ -22,3 +22,6 @@
 [submodule "organs/user"]
 	path = organs/user
 	url = git@github.com:BLOCKOTUS/user.git
+[submodule "organs/helper"]
+	path = organs/helper
+	url = git@github.com:BLOCKOTUS/helper.git
