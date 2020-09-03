@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev": "bash scripts/dev.sh",
-    "devInstall": "bash scripts/install.sh",
+    "dev": "bash ./scripts/dev.sh",
+    "devInstall": "bash ./scripts/install.sh",
     "upgrade-organ": "bash scripts/upgrade.sh"
   },
   "repository": {

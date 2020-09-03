@@ -1,27 +1,27 @@
 [submodule "network"]
 	path = network
-	url = git@github.com:BLOCKOTUS/network.git
+	url = https://github.com/BLOCKOTUS/network.git
 [submodule "organs/identity"]
 	path = organs/identity
-	url = git@github.com:BLOCKOTUS/identity.git
+	url = https://github.com/BLOCKOTUS/identity.git
 [submodule "organs/job"]
 	path = organs/job
-	url = git@github.com:BLOCKOTUS/job.git
+	url = https://github.com/BLOCKOTUS/job.git
 [submodule "organs/admins"]
 	path = organs/admins
-	url = git@github.com:BLOCKOTUS/admins.git
+	url = https://github.com/BLOCKOTUS/admins.git
 [submodule "nerves"]
 	path = nerves
-	url = git@github.com:BLOCKOTUS/nerves.git
+	url = https://github.com/BLOCKOTUS/nerves.git
 [submodule "webapp"]
 	path = webapp
-	url = git@github.com:BLOCKOTUS/webapp.git
+	url = https://github.com/BLOCKOTUS/webapp.git
 [submodule "scripts"]
 	path = scripts
-	url = git@github.com:BLOCKOTUS/scripts.git
+	url = https://github.com/BLOCKOTUS/scripts.git
 [submodule "organs/user"]
 	path = organs/user
-	url = git@github.com:BLOCKOTUS/user.git
+	url = https://github.com/BLOCKOTUS/user.git
 [submodule "organs/helper"]
 	path = organs/helper
-	url = git@github.com:BLOCKOTUS/helper.git
+	url = https://github.com/BLOCKOTUS/helper.git
