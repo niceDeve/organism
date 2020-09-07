@@ -1,4 +1,4 @@
-# BLOCKOTUS Organism
+# BLOCKOTUS Organism - Hyperledger Fabric SDK
 
 What you are looking at is the frame for the best upgrade ever for the civilization privilege escalation game, solved with our intrusion, intelligence and coordination capacities.
 
@@ -63,6 +63,7 @@ It executes the following tasks:
 - deploy chaincode contracts
 - start the nerves server
 - start the webapp
+- run the bootstrap
 
 ### Hot Chaincode Contract Upgrade
 
