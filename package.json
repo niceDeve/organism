@@ -1,7 +1,7 @@
 {
-  "name": "organism",
-  "version": "0.1.1-alpha",
-  "description": "Organs coordinator.",
+  "name": "blockotus-organism",
+  "version": "0.1.2-alpha",
+  "description": "Hyperledger Fabric SDK.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -11,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sovereignblock/organism.git"
+    "url": "git+https://github.com/blockotus/organism.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Daniel Febrero",
+  "license": "AGPL-3.0",
   "bugs": {
-    "url": "https://github.com/sovereignblock/organism/issues"
+    "url": "https://github.com/blockotus/organism/issues"
   },
-  "homepage": "https://github.com/sovereignblock/organism#readme"
+  "homepage": "https://github.com/blockotus/organism#readme"
 }
